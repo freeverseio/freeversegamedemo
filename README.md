@@ -1,2 +1,2 @@
 # freeversegamedemo
-Demo to how to interact with Webmarket and WebGL into an iframe
+Demo project show show how to interact with Webmarket and WebGL into an iframe.
