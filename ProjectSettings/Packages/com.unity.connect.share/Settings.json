@@ -1,0 +1,13 @@
+{
+    "m_Name": "Settings",
+    "m_Path": "ProjectSettings/Packages/com.unity.connect.share/Settings.json",
+    "m_Dictionary": {
+        "m_DictionaryValues": [
+            {
+                "type": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "buildOutputDirList",
+                "value": "{\"m_Value\":\"/Users/alune/FreeverseLegoDemo/builds/test13;/Users/alune/FreeverseLegoDemo/builds/test12;/Users/alune/FreeverseLegoDemo/builds/test11;/Users/alune/FreeverseLegoDemo/builds/test10;/Users/alune/FreeverseLegoDemo/builds/test9;/Users/alune/FreeverseLegoDemo/builds/test8;/Users/alune/FreeverseLegoDemo/builds/test7;/Users/alune/FreeverseLegoDemo/builds/test6;/Users/alune/FreeverseLegoDemo/builds/test3;/Users/alune/FreeverseLegoDemo/builds/test2\"}"
+            }
+        ]
+    }
+}
